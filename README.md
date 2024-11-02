@@ -59,7 +59,7 @@ To file bugs, make feature requests, or to suggest other improvements, please us
 
 # Want to support my work
 
-1. [<img src = "assets/buy-me-coffee.jpeg" width ="80">](https://www.buymeacoffee.com/rohitvish) [**Buy me a coffee! ☕️**](https://www.buymeacoffee.com/rohitvish)
+1. [<img src = "https://github.com/rohitvishwakarma1819/SwitchEnv/blob/main/assets/buy-me-coffee.jpeg" width ="80">](https://www.buymeacoffee.com/rohitvish) [**Buy me a coffee! ☕️**](https://www.buymeacoffee.com/rohitvish)
 
 2. Star this repository ⭐️⭐️⭐️
 
