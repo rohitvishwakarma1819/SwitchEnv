@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/rohitvishwakarma1819/SwitchEnv"
   },
-  "description": "",
+  "description": "Easily switch between environment configurations in a porject by selecting presets (like local, dev, qa, stage) stored in custom folders. Quickly swap .env files with a click, streamline environment management, and specify ignored folders.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
