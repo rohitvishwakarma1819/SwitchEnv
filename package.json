@@ -8,7 +8,7 @@
     "url": "https://github.com/rohitvishwakarma1819/SwitchEnv.git"
   },
   "description": "Quickly switch environment configurations for projects by selecting presets stored in custom folders.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.95.0"
   },
