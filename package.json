@@ -1,6 +1,8 @@
 {
   "name": "switchenv",
   "displayName": "SwitchEnv",
+  "icon": "assets/switchEnv.png",
+  "publisher": "rohitvishwakarma",
   "repository": {
     "type": "git",
     "url": "https://github.com/rohitvishwakarma1819/SwitchEnv"
