@@ -31,6 +31,7 @@ SwitchEnv is a Visual Studio Code extension designed to simplify the process of 
 
 2. Configure environment options and ignorable folders in extension settings (more below).
 3. Click the **SwitchEnv** button in the status bar to select the environment or hit `cmd + shift + p` and search SwitchEnv hit enter. You will be prompted to select a environment from a list of environments you defined in `switchEnv.envNames` variable in `settings.json`. Select an environment from list and then the content of `.env` files will automatically updated with the selected preset values.
+4. Be sure to add your environment folder to .gitignore. For instance, if the folder is named environments, include environments/ in your project's .gitignore or global .gitignore to prevent those files from being pushed to the repository.
 
 ![Demo](https://github.com/rohitvishwakarma1819/SwitchEnv/raw/main/assets/switchEnv-demo.gif)
 
